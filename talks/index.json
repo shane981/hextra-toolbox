@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-03T05:04:46.048Z",
+  "latest": "2026-11-09",
+  "count": 1,
+  "talks": [
+    {
+      "id": "2026-11-09",
+      "title": "Isolate every source, lock it, test before you touch",
+      "date": "2026-11-09",
+      "week_label": "Week of Monday 9 November 2026",
+      "file": "2026-11-09.json"
+    }
+  ]
+}
