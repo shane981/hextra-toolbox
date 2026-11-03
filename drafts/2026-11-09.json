@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "2026-11-09",
+  "title": "Isolate every source, lock it, test before you touch",
+  "date": "2026-11-09",
+  "week_label": "Week of Monday 9 November 2026",
+  "summary": "Almost a year ago (24 November 2025) a NSW electrician was killed by an electric shock while fitting meter probes to bare copper bars inside a live switchboard during UPS commissioning. SafeWork NSW has also reported apprentices shocked by live wires on switchboards. Most of our jobs have more than one energy source - grid, solar, batteries, UPS, generators, other boards, stored refrigerant pressure, flammable refrigerant. This week: find every source, isolate it, lock it with your own lock, and prove it dead before anyone touches anything.",
+  "key_risk": "Electric shock, arc flash or burns from equipment that was believed to be off but was still live - because a second supply (solar, battery, UPS, generator, another board, consumer mains) was missed, someone re-energised it, the tester was faulty, or the work was done live 'just for a minute'. For refrigeration and air conditioning there is also the stored-energy risk of pressurised refrigerant and nitrogen, and ignition of flammable (A2L) refrigerant such as R32.",
+  "drivers_need_to_know": [
+    "[All trades] In NSW, working on energised (live) electrical equipment is prohibited except in a few narrow cases set out in the WHS Regulations (for example, testing to prove it is dead). Convenience, customer pressure or 'it's only quick' are not exceptions. If the customer won't agree to a shutdown, stop and call your supervisor.",
+    "[Electrical, Solar, Level 2 ASP] Identify every source before you start: main supply, sub-boards, solar PV, batteries, UPS, generators, stand-by systems and auxiliary supplies from other boards. Switching off at the inverter does NOT make the panel-to-inverter DC cabling dead, and switching off at the meter box does NOT kill the consumer mains or service lines from the street.",
+    "[Electrical, Solar, Level 2 ASP] Test for dead before you touch, every time: test your tester on a known live source, test the circuit you will work on, then re-test your tester on the known live source. Test again after a break, if you leave the area, or if anything changes. Assume it is live until you have proven it dead.",
+    "[All trades] Lock it, don't just switch it. Put your own personal lock (and a danger tag) on each isolation point. If several people are working on the same gear, each person fits their own lock. Only the person whose name is on the tag removes it.",
+    "[Air conditioning, Refrigeration, Hydronics/heat pumps] Before opening up an outdoor unit, compressor, fan or control box, isolate and lock off the unit's isolator AND check the circuit back at the board - capacitors and inverter drives can hold charge, and units can restart on a timer or remote call. Get a licensed electrician to prove it dead if you are not licensed for electrical work.",
+    "[Air conditioning, Refrigeration] Refrigerant and nitrogen are stored energy too. Recover refrigerant before breaking into a system - never cut or break pipework that still has refrigerant or gas under pressure in it. With flammable refrigerants such as R32 (A2L), remove ignition sources, ventilate, use A2L-rated tools and detectors, and earth the system before charging. Only licensed (or supervised trainee-licensed) techs handle refrigerant.",
+    "[Fire protection] Isolating a fire panel, detection zone or sprinkler valve takes protection away from the people in the building. Get permission from the building owner/manager first, tell the monitoring service and occupants, tag the isolated item, keep the isolation as short as possible, and restore and test it before you leave. Emergency and exit lighting circuits are electrical work - isolate and test before touching.",
+    "[Electrical apprentices, all trainees] Apprentices must not isolate and prove dead on their own. A licensed electrician isolates and tests the equipment before an apprentice works on it, and stays in charge of the job."
+  ],
+  "supervisors_must_check": [
+    "[All trades] Every job involving electrical, refrigerant or fire-system work has a site-specific SWMS that lists ALL energy sources and how each one is isolated (including solar, batteries, UPS, generators and other boards).",
+    "[All trades] Every technician and apprentice has their own personal lock(s), danger tags and lock-out devices that fit the breakers and isolators they actually use.",
+    "[Electrical, Solar, Level 2 ASP, A/C, Refrigeration] Voltage testers and proving units are in date for calibration per the manufacturer, in good condition, and suitable for the voltage/category of the work (including DC for solar and batteries).",
+    "[Electrical, all trades] No live work is being done for convenience. Any live work (such as testing) has its own risk assessment, SWMS, safety observer where required, and suitable PPE and insulated tools.",
+    "[A/C, Refrigeration] Techs working on R32 and other A2L systems have A2L-rated gauges, recovery units, vacuum pumps and leak detectors, and hold the right ARC refrigerant handling licence (apprentices on a trainee licence under supervision).",
+    "[Fire protection] Fire system isolations are authorised by the building owner/manager and recorded, with the monitoring company notified and the system restored and tested before the tech leaves site.",
+    "[Apprentices] Apprentices are paired with a licensed tradesperson who does the isolation and proving dead, and apprentices know they can stop work and call if they are unsure."
+  ],
+  "discussion_questions": [
+    "Think of a recent job where there was more than one source of supply (solar, battery, UPS, generator, sub-board). How did you find them all, and what would have happened if one was missed?",
+    "Has a customer or site manager ever pushed you to keep the power on? What should you say, and who do you call?",
+    "Walk through how you test for dead on a switchboard - what does 'test the tester' mean and why do we do it twice?",
+    "For the A/C and refrigeration crew: what stored energy is still there after you switch off the isolator (capacitors, refrigerant pressure, nitrogen, flammable gas), and how do you deal with each one?",
+    "For the fire crew: before you isolate a panel or sprinkler valve, who needs to know and how do you make sure it is restored before you leave?"
+  ],
+  "practical_checklist": [
+    "[All trades] SWMS for today's job lists every energy source",
+    "[All trades] Own personal lock and danger tag on every isolation point",
+    "[Electrical, Solar, ASP] Solar/battery/UPS/generator and other boards checked and isolated",
+    "[Electrical, Solar, ASP] Tester proved on known live source - before AND after testing the circuit",
+    "[Electrical, Solar, ASP] Consumer mains and service lines treated as live",
+    "[A/C, Refrigeration, Hydronics] Unit isolator locked off and circuit checked at the board; capacitors discharged/proven",
+    "[A/C, Refrigeration] Refrigerant recovered before breaking in; A2L-rated tools for R32; ignition sources removed",
+    "[Fire protection] Isolation authorised, monitoring company told, item tagged, system restored and tested before leaving",
+    "[All trades] Re-tested after any break, shift change or when returning to the area",
+    "[Apprentices] Licensed tradesperson did the isolation and proving dead"
+  ],
+  "required_records": [
+    "Signed sign-on register for this toolbox talk (exported CSV from the app).",
+    "Site-specific SWMS for jobs involving electrical, refrigerant or fire-system work (SafeWork NSW: keep SWMS until the work is finished).",
+    "Risk assessments and test records for any work on energised equipment (SafeWork NSW: risk assessments at least 28 days after the work; at least two years if there is an electric shock or serious injury).",
+    "Tester calibration records.",
+    "Refrigerant logbook entries for refrigerant recovered or added.",
+    "Fire system isolation record (who authorised it, monitoring company notified, time isolated and restored)."
+  ],
+  "follow_up_actions": [
+    { "action": "Check every technician and apprentice has personal locks, danger tags and lock-out devices that fit our common breakers and isolators; order any missing.", "owner": "Supervisor", "due": "Friday 13 November 2026" },
+    { "action": "Check voltage tester and proving unit calibration dates across all vans; tag out and replace any overdue or damaged.", "owner": "Supervisor", "due": "Friday 13 November 2026" },
+    { "action": "Confirm A2L-rated gauges, recovery units, vacuum pumps and leak detectors are on every A/C and refrigeration van.", "owner": "Refrigeration lead", "due": "Friday 20 November 2026" },
+    { "action": "Review the electrical/solar SWMS template so it prompts for solar, battery, UPS, generator and other-board isolation.", "owner": "WHS / Operations manager", "due": "Friday 20 November 2026" },
+    { "action": "Write down (or confirm) the Hextra fire-system isolation procedure: authorisation, monitoring notification, tagging, restore and test.", "owner": "Fire protection lead", "due": "Friday 27 November 2026" }
+  ],
+  "sources_reviewed": [
+    { "name": "SafeWork NSW", "type": "regulator", "title": "Electrician received fatal electric shock during UPS commissioning (24 November 2025)", "url": "https://www.safework.nsw.gov.au/compliance-and-prosecutions/incident-information-releases/construction/electrician-received-fatal-electric-shock-during-ups-commissioning-24-november-2025", "date": "2025-11", "accessed": "2026-11-03", "note": "Incident summary and safety information: live work prohibited unless an exception applies; identify and isolate all energy sources, LOTO, test de-energised, SWMS, calibrated test equipment, emergency plans." },
+    { "name": "SafeWork NSW", "type": "regulator", "title": "Increase in incidents involving young electrical workers (safety alert)", "url": "https://www.safework.nsw.gov.au/safety-alerts/safety-alerts/increase-in-incidents-involving-young-electrical-workers", "date": "2024-10-16", "accessed": "2026-11-03", "note": "Two apprentices shocked by live wires in 2024; licensed electrician to isolate and test before apprentices work; isolate stand-by, generator, PV and auxiliary supplies; supervision of young workers." },
+    { "name": "SafeWork NSW", "type": "regulator", "title": "Electrical work (hazards A-Z)", "url": "https://www.safework.nsw.gov.au/hazards-a-z/electrical-and-power/electrical-work", "date": "undated", "accessed": "2026-11-03", "note": "Live work prohibited except listed circumstances; test every circuit and conductor before touching; record keeping for SWMS and risk assessments (28 days / two years after a shock)." },
+    { "name": "SafeWork NSW", "type": "regulator", "title": "Electrical hazards when working in ceiling spaces (safety alert)", "url": "https://www.safework.nsw.gov.au/safety-alerts/safety-alerts/electrical-hazards-when-working-in-ceiling-spaces", "date": "2017-12-11", "accessed": "2026-11-03", "note": "Meter-box isolation does not isolate consumer mains/service lines; inverter isolation does not isolate PV array wiring; lock the main switch; test before you touch." },
+    { "name": "Safe Work Australia", "type": "regulator", "title": "Model Code of Practice: Managing electrical risks in the workplace", "url": "https://www.safeworkaustralia.gov.au/system/files/documents/1810/model-cop-managing-electrical-risks-in-the-workplace.pdf", "date": "2018-10", "accessed": "2026-11-03", "note": "'Test for dead before you touch' (test tester, test equipment, re-test tester); re-test after a break or change; personal locks for each worker; danger tags removed only by signatories." },
+    { "name": "Energy Safe Victoria", "type": "regulator", "title": "Never work live", "url": "https://www.energysafe.vic.gov.au/never-work-live", "date": "undated", "accessed": "2026-11-03", "note": "Interstate regulator message: don't be pressured to work live, right to refuse; disconnect supply, confirm isolations and test with suitable instruments; test completed work to AS/NZS 3000." },
+    { "name": "Australian Refrigeration Council (ARC)", "type": "industry", "title": "Code of practice Part 2: Systems other than self-contained low charge systems (2025 edition)", "url": "https://arctick.org/refrigerant-handling-licence/codes-of-practice/part-2-systems-other-than-self-contained-low-charge-systems/", "date": "2025", "accessed": "2026-11-03", "note": "Licensing (trainee licence under supervision); A2L-rated tools; no breaking into pipework under pressure; recover/isolate before brazing; earth before charging flammable refrigerant; ventilate and remove ignition sources. References AS/NZS 5149." },
+    { "name": "Australian Refrigeration Council (ARC)", "type": "industry", "title": "R32 refrigerant information for technicians", "url": "https://arctick.org/information/r32/", "date": "undated", "accessed": "2026-11-03", "note": "R32 is A2L lower flammability, DG class 2.1; use A2L-rated equipment, eliminate electrical ignition sources; employer must ensure competent, trained workers." }
+  ],
+  "prepared_by": "Hextra toolbox talk (draft prepared from regulator and industry sources - review before delivery)"
+}

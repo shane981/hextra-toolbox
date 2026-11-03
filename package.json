@@ -1,0 +1,13 @@
+{
+  "name": "hextra-toolbox",
+  "private": true,
+  "description": "Hextra weekly toolbox talks PWA (static site, no build step).",
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "check": "node scripts/publish.mjs --check",
+    "serve": "python3 -m http.server 8080",
+    "verify": "node scripts/verify-pwa.mjs"
+  },
+  "devDependencies": { "puppeteer-core": "^23.0.0" }
+}
