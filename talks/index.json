@@ -1,9 +1,16 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-03T05:04:46.048Z",
-  "latest": "2026-11-09",
-  "count": 1,
+  "generated_at": "2026-11-15T18:58:43.061Z",
+  "latest": "2026-11-16",
+  "count": 2,
   "talks": [
+    {
+      "id": "2026-11-16",
+      "title": "Brazing and nitrogen: hot work without fires, flashbacks or blow-outs",
+      "date": "2026-11-16",
+      "week_label": "Week of Monday 16 November 2026",
+      "file": "2026-11-16.json"
+    },
     {
       "id": "2026-11-09",
       "title": "Isolate every source, lock it, test before you touch",

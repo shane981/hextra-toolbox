@@ -1,6 +1,6 @@
 /* Hextra Toolbox Talks – service worker.
    CACHE_VERSION is bumped automatically by scripts/publish.sh on every publish. */
-const CACHE_VERSION = 'hextra-toolbox-v1';
+const CACHE_VERSION = 'hextra-toolbox-v2';
 // Shares the shane981.github.io origin with other apps: use a suffix other apps' SWs won't delete,
 // and only ever delete our own old caches.
 const SHELL_CACHE = `${CACHE_VERSION}-app`;

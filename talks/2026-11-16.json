@@ -1,0 +1,141 @@
+{
+  "schema_version": 1,
+  "id": "2026-11-16",
+  "title": "Brazing and nitrogen: hot work without fires, flashbacks or blow-outs",
+  "date": "2026-11-16",
+  "week_label": "Week of Monday 16 November 2026",
+  "summary": "This week is our HVAC-R talk, and it lines up with the start of A/C install season and bushfire season. Brazing, de-brazing and nitrogen pressure testing are everyday jobs for our A/C, refrigeration, hydronics and hot water crews, but they bring together an open flame, gas cylinders, high-pressure nitrogen and often a roof, ceiling space or dry grass. SafeWork NSW has reported a site fire that put about 20 people in treatment for smoke inhalation after oxy-acetylene cutting ignited plastic mesh, and the ARC code of practice warns that nitrogen test pressures are high enough to kill. This week: clear the area, check your gear, recover the refrigerant, use oxygen-free nitrogen through a regulator, and know the Total Fire Ban rules before you light up outside.",
+  "key_risk": "Fire, burns and explosion from brazing and other hot work - sparks or flame igniting insulation, timber, dust, dry grass or rubbish; flashback into hoses and cylinders; heating pipework that still holds refrigerant or flammable (A2L) gas - plus serious injury or death from over-pressurising pipework or vessels with nitrogen, and suffocation from nitrogen or other gases building up in a coolroom, cellar, plant room or ceiling space.",
+  "drivers_need_to_know": [
+    "[Air conditioning, Refrigeration, Hydronics/heat pumps, Plumbing] Brazing, de-brazing, silver soldering, grinding and cutting are all hot work. Before you light the torch, look around and up: remove or cover anything that can burn (insulation, timber, cardboard, rubbish, dust, dry grass, plastic), protect nearby services, and have a suitable extinguisher or water ready within reach.",
+    "[Air conditioning, Refrigeration, Hydronics/heat pumps] Never braze, de-braze or cut into pipework that still holds refrigerant or any gas under pressure. Recover all the refrigerant (or isolate it with shut-off valves in a part of the system away from the repair), evacuate, then purge with oxygen-free nitrogen (OFN) before and during brazing. This matters even more with flammable A2L refrigerants such as R32.",
+    "[Air conditioning, Refrigeration] Use oxygen-free nitrogen only - never standard-grade nitrogen, compressed air or oxygen to pressure test or blow out pipework. The ARC code warns that standard-grade nitrogen can hold enough oxygen to cause an explosion at high pressure, and that nitrogen test pressures are high enough to cause serious injury or death.",
+    "[Air conditioning, Refrigeration] Our procedure: never connect a nitrogen cylinder straight to a system. Always go through a nitrogen regulator, bring the pressure up in stages, never go over the test pressure for the equipment, keep your face and body clear of joints, gauges and caps while it is pressurised, and release the pressure before you undo anything.",
+    "[Air conditioning, Refrigeration, Hydronics/heat pumps, Plumbing] Oxy-fuel kits must have flashback arrestors that suit the gas, and the cylinders must be undamaged, upright, secured and with valves closed when not in use. A loud bang or hissing back at the torch is a flashback - shut the gas off, and do not relight until the cause is found and a competent person has checked the arrestors, hoses and fittings.",
+    "[All trades] On a Total Fire Ban day in NSW, hot work such as welding, grinding, gas cutting or anything that makes a spark or flame must not be done in the open unless an exemption applies (the RFS says the on-the-spot fine for lighting a fire during a ban is $2200). Check the fire danger rating before you head out, and if a job needs outdoor hot work on a ban day, stop and call your supervisor.",
+    "[Refrigeration, Beer lines, Air conditioning] Nitrogen and carbon dioxide are odourless, colourless asphyxiants. In coolrooms, cellars, plant rooms and tight ceiling spaces, ventilate, keep the cylinder outside where you can, check the gas alarm if there is one, and get out at the first sign of headache, dizziness or shortness of breath. Never go in after someone who has collapsed - raise the alarm.",
+    "[All trades] Fire watch: when you finish, at breaks, and before you leave site, check the work area (and the other side of walls, ceilings and roof sheets) for smouldering material. Our procedure is to stay and keep watching for a while after the last flame - fires often start after the torch is off.",
+    "[Apprentices] Apprentices only braze or pressure test under the direct supervision of a licensed tradesperson, and only refrigerant-handling work allowed under their ARC trainee licence. If you are unsure about the gas, the pressure or what is behind the wall, stop and ask."
+  ],
+  "supervisors_must_check": [
+    "[Air conditioning, Refrigeration, Hydronics/heat pumps, Plumbing] Jobs involving brazing or other hot work have a SWMS or hot work permit/checklist covering fuel sources, fire extinguisher, fire watch, ventilation and the post-work check for smouldering material.",
+    "[Air conditioning, Refrigeration, Hydronics/heat pumps, Plumbing] Every oxy-fuel or air-fuel kit has flashback arrestors suited to the gas, hoses and fittings in good condition, and arrestors inspected and tested by a competent person (WorkSafe ACT guidance: every 12 months).",
+    "[Air conditioning, Refrigeration] Every van that does pressure testing carries oxygen-free nitrogen (not standard-grade nitrogen) and a working nitrogen regulator in good condition.",
+    "[All trades] Crews check the fire danger rating and Total Fire Ban status before outdoor hot work, and know to call before doing any outdoor hot work on a ban day.",
+    "[All trades] Gas cylinders are carried and stored upright and restrained in vans and on site, valves closed when not in use, with nothing smoking or hot near them.",
+    "[Refrigeration, Beer lines] Techs working in coolrooms and cellars know the asphyxiation risk, check gas alarms where fitted, and keep cylinders and purge gas vented away from enclosed spaces.",
+    "[Apprentices] Apprentices doing brazing or pressure testing are directly supervised and hold an ARC trainee licence for any refrigerant handling."
+  ],
+  "discussion_questions": [
+    "Think about your last brazing job in a ceiling space, roof or plant room. What could have caught fire, and what did you do about it?",
+    "Walk us through repairing a leak on an R32 split system - from recovery to nitrogen purge to brazing to pressure test. Where are the steps people are tempted to skip?",
+    "Why do we use oxygen-free nitrogen and a regulator, and never compressed air, oxygen or a cylinder straight onto the system? What could happen?",
+    "It's a Total Fire Ban day in the Snowy and a job needs an outdoor braze on a condenser. What do you do, and who do you call?",
+    "For the refrigeration and beer line crew: how would you know if nitrogen or CO2 had built up in a coolroom or cellar, and what would you do if you found someone collapsed in one?"
+  ],
+  "practical_checklist": [
+    "[A/C, Refrigeration, Hydronics, Plumbing] Area checked above, below and behind - combustibles removed or covered",
+    "[A/C, Refrigeration, Hydronics, Plumbing] Extinguisher or water ready within reach before lighting",
+    "[A/C, Refrigeration] Refrigerant recovered (or isolated remote from the repair) before any brazing or cutting",
+    "[A/C, Refrigeration] OFN purged before and during brazing; Schrader cores removed when brazing the fitting",
+    "[A/C, Refrigeration] Oxygen-free nitrogen only, through a regulator; never compressed air or oxygen",
+    "[A/C, Refrigeration] Pressure raised in stages, never over the equipment's test pressure; stand clear; release before undoing",
+    "[A/C, Refrigeration, Hydronics, Plumbing] Flashback arrestors fitted and in test date; hoses and fittings undamaged",
+    "[All trades] Fire danger rating / Total Fire Ban checked before outdoor hot work",
+    "[Refrigeration, Beer lines] Coolroom/cellar ventilated; gas alarm checked; cylinders outside where possible",
+    "[All trades] Post-work check for smouldering material before break and before leaving site",
+    "[Apprentices] Licensed tradesperson supervising brazing and pressure testing"
+  ],
+  "required_records": [
+    "Signed sign-on register for this toolbox talk (exported CSV from the app).",
+    "SWMS or hot work permit/checklist for jobs involving brazing, cutting or grinding (SafeWork NSW recommends a hot work permit system; keep a copy in the site file).",
+    "Leak tightness / pressure test records for the job (the ARC code says all tests must be documented).",
+    "Refrigerant logbook entries for refrigerant recovered or added.",
+    "Flashback arrestor inspection and test records.",
+    "Any Total Fire Ban exemption relied on for outdoor hot work."
+  ],
+  "follow_up_actions": [
+    {
+      "action": "Check every A/C, refrigeration, hydronics and plumbing van for flashback arrestors suited to the gas, arrestor test dates, hose condition and a working extinguisher; tag out and replace anything damaged or overdue.",
+      "owner": "Supervisor",
+      "due": "Friday 20 November 2026"
+    },
+    {
+      "action": "Confirm every van that pressure tests carries oxygen-free nitrogen (not standard grade) and a working nitrogen regulator; order any missing.",
+      "owner": "Refrigeration lead",
+      "due": "Friday 20 November 2026"
+    },
+    {
+      "action": "Set up a simple hot work checklist (fuel sources, extinguisher, fire watch, post-work check) for brazing jobs, based on the SafeWork NSW hot work alert.",
+      "owner": "WHS / Operations manager",
+      "due": "Friday 27 November 2026"
+    },
+    {
+      "action": "Agree and brief the crew on our Total Fire Ban process: who checks the rating each morning in fire season and what happens to outdoor hot work on a ban day.",
+      "owner": "Operations manager",
+      "due": "Friday 27 November 2026"
+    },
+    {
+      "action": "Check cylinder restraint and storage in all vans (upright, secured, valves closed).",
+      "owner": "Supervisor",
+      "due": "Friday 27 November 2026"
+    }
+  ],
+  "sources_reviewed": [
+    {
+      "name": "SafeWork NSW",
+      "type": "regulator",
+      "title": "Hot work safety alert",
+      "url": "https://www.safework.nsw.gov.au/safety-alerts/safety-alerts/hot-work",
+      "date": "2018-09-14",
+      "accessed": "2026-11-16",
+      "note": "Feb 2018 demolition-site fire from oxy-acetylene cutting igniting plastic mesh (about 20 people treated for smoke inhalation); hot work hazards; hot work permit system, remove combustibles, flashback arresters, cylinders upright and secured, firefighting equipment, fire watch, post-work check for smouldering material. References AS 1674.1."
+    },
+    {
+      "name": "Australian Refrigeration Council (ARC)",
+      "type": "industry",
+      "title": "Refrigerant handling code of practice Part 2: Systems other than self-contained low charge systems (2025 edition)",
+      "url": "https://www.arctick.org/refrigerant-handling-licence/codes-of-practice/part-2-systems-other-than-self-contained-low-charge-systems/",
+      "date": "2025",
+      "accessed": "2026-11-16",
+      "note": "4.6.5 OFN purge before and during brazing at minimal pressure; 4.6.10 remove Schrader cores when brazing; 4.9 nitrogen test pressures can cause serious injury or death, nitrogen is an asphyxiant, standard-grade nitrogen unsafe (explosion risk); 9.9 no cutting into pipework under pressure; 9.9.4 recover or isolate refrigerant before brazing/de-brazing; tests must be documented."
+    },
+    {
+      "name": "WorkSafe ACT",
+      "type": "regulator",
+      "title": "Flashback arrestors",
+      "url": "https://www.worksafe.act.gov.au/health-and-safety-portal/safety-by-industry/building-and-construction/flashback-arrestors",
+      "date": "undated",
+      "accessed": "2026-11-16",
+      "note": "Interstate regulator guidance naming air conditioning and plumbing workers at risk; causes of flashback; arrestors compatible with gas (AS 4603), inspected and tested every 12 months; fit at regulator and torch (AS 4839); find cause and inspect before relighting."
+    },
+    {
+      "name": "NSW Rural Fire Service",
+      "type": "regulator",
+      "title": "Total Fire Ban rules",
+      "url": "https://www.rfs.nsw.gov.au/fire-information/fire-danger-ratings-and-total-fire-bans/total-fire-ban-rules",
+      "date": "undated",
+      "accessed": "2026-11-16",
+      "note": "General purpose hot works (welding, grinding, gas cutting, anything producing a spark or flame) not to be done in the open during a Total Fire Ban; exemptions via Government Gazette or application (minimum 21 days processing); $2200 on-the-spot fine for lighting a fire during a ban."
+    },
+    {
+      "name": "SafeWork NSW",
+      "type": "regulator",
+      "title": "Cellar safety - exposure to gases (safety alert)",
+      "url": "https://www.safework.nsw.gov.au/safety-alerts/safety-alerts/gases-in-cellars-and-cool-rooms",
+      "date": "2019-05-20",
+      "accessed": "2026-11-16",
+      "note": "CO2 and nitrogen in cellars and coolrooms are odourless, colourless asphyxiants; symptoms; ventilation, gas monitoring alarms with external warning, trained access, weekly leak tests, cylinders upright and secured."
+    },
+    {
+      "name": "Safe Work Australia",
+      "type": "regulator",
+      "title": "Model Code of Practice: Welding processes",
+      "url": "https://www.safeworkaustralia.gov.au/doc/model-code-practice-welding-processes",
+      "date": "2026-11-06",
+      "accessed": "2026-11-16",
+      "note": "Model code for managing welding risks (published 28 May 2021, last updated 6 Nov 2026 to reflect the move to workplace exposure limits from 1 December 2026). Check legal effect in NSW."
+    }
+  ],
+  "prepared_by": "Hextra toolbox talk (draft prepared from regulator and industry sources - review before delivery)"
+}
