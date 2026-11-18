@@ -55,7 +55,7 @@ procedure" and list it in the report as an assumption for Shane to confirm. Aust
 ## 3. Write the draft
 - File: `drafts/YYYY-MM-DD.json` where the date is the Monday. Copy the structure of the latest `talks/*.json`.
   Schema: `SCHEMA.md` / `schema/talk.schema.json` (no extra fields; exactly 5 discussion questions).
-- `week_label`: `Week of Monday D Month YYYY`.
+- `week_label`: `Week NN of TT – Week of Monday D Month YYYY`, where NN is the ISO week number of the Monday (`date -d YYYY-MM-DD +%V`) and TT is that ISO year's total weeks (52, or 53 in long years such as 2026: `date -d YYYY-12-28 +%V`). Shane asked for this on 18 Nov 2026. Keep the title unchanged; the week number goes in `week_label` and the Monday Teams post.
 - Every item in `drivers_need_to_know` (shown as "What workers need to know"), `supervisors_must_check`
   and `practical_checklist` starts with the trades it applies to in brackets, e.g. `[Electrical, Solar, Level 2 ASP]`,
   `[Air conditioning, Refrigeration]`, `[Fire protection]`, `[Hydronics/heat pumps]`, `[All trades]`, `[Apprentices]`.
