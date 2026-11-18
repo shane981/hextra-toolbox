@@ -1,0 +1,171 @@
+{
+  "schema_version": 1,
+  "id": "2026-11-18",
+  "date": "2026-11-18",
+  "title": "Fire system isolations: isolate only what you need, cover the gap, put it back",
+  "week_label": "Week 47 of 53 – Week of Wednesday 18 November 2026",
+  "summary": "This week is our fire protection talk, and the first on our new Wednesday schedule. Every trade at Hextra works in buildings with fire alarms, sprinklers, hose reels and emergency lighting, and our fire crew isolates and services those systems every week. An isolation that is bigger than it needs to be, or never put back, leaves people with no warning if a real fire starts - often in lodges and units where people are asleep. Our dust, cutting and brazing also set off alarms that empty buildings and bring Fire and Rescue NSW out for nothing. Since 13 February 2026, routine servicing of essential fire safety measures in most NSW buildings must follow AS 1851-2012. This week: plan it, isolate the minimum, cover the gap, report defects, and restore and check before you leave.",
+  "key_risk": "A building left without working fire protection - detection and alarms, sprinklers, hydrants and hose reels, warning systems or emergency lighting - because a zone or system was isolated for our work and not restored, more was isolated than needed, nobody else knew it was off, or a critical defect we found was not reported before we left site. Plus unwanted alarms from our dust, cutting, heat or steam that cause evacuations, Fire and Rescue NSW callouts and charges, and make people slower to react to a real alarm; and electric shock at fire panels, which have both mains and battery supplies.",
+  "drivers_need_to_know": [
+    "[All trades] Most buildings we work in have an automatic fire alarm. Fire and Rescue NSW says workers set off false alarms with dust, cutting wires, spraying and steam cleaning, and that all workers on site must register with the building owner or manager and be inducted so the alarm system is isolated properly. Before you drill, cut, braze, grind or blow out a ceiling space, ask the building manager or our fire crew whether the detectors in that area need isolating. Never isolate a panel yourself unless you are trained and authorised to.",
+    "[All trades] Fire and Rescue NSW responded to about 58,000 automatic fire alarm activations in 2025 and about 98% were unwanted. The first false alarm from a system in a 60-day period is not charged; after that the charge is $1,656 each time. Worse than the cost, it says unwanted alarms can make people complacent about real ones.",
+    "[Fire protection] Our procedure for any isolation: get the building owner or manager's OK (and their permit if they use one), isolate only the zones, devices or valves needed for the job, tag the panel or valve with your name, phone number, time and reason, and tell the monitoring company and the site contact what is off and for how long.",
+    "[Fire protection] Our procedure: while anything is isolated, the gap must be covered - for example a fire watch in the isolated area, extinguishers on hand, and occupants or the site contact told. Keep isolations as short as possible, avoid having two systems off at once, and never leave a system isolated overnight or when you leave site unless the building owner has agreed in writing and knows what interim measures are in place.",
+    "[Fire protection, Plumbing] Sprinkler, hydrant and hose reel water supply valves are meant to stay open. Our procedure: closing one, or draining a system, is an isolation - same approval, tags and notification as a panel isolation - and you reopen it fully and check pressures before you go.",
+    "[Fire protection] Since 13 February 2026, anyone maintaining essential fire safety measures in class 1b to class 9 buildings in NSW must follow the procedures in AS 1851-2012 where the standard covers the activity (Building Commission NSW). Contractors must understand the standard and hold the right licences and qualifications. Accreditation is not needed for routine testing and servicing, but it is needed to assess measures for an annual fire safety statement - do not sign anything you are not accredited for.",
+    "[Fire protection] Found a defect? The NSW good practice guide for AS 1851-2012 says a critical defect (one that has made a system inoperable) must be reported to the building owner or responsible entity before you leave site, or as soon as possible, and confirmed in writing within 24 hours. Non-critical defects and non-conformances must be reported within one week. Fill in the logbook at the time of service and leave a hard copy on site.",
+    "[Electrical, Fire protection] Fire indicator panels, warning systems and emergency lights run on mains plus backup batteries. Isolating the mains does not make them dead. Our procedure: isolate both supplies, lock and tag, and test before you touch (see our 9 November talk) - and never switch off a fire panel's supply without telling the site contact and the monitoring company first.",
+    "[All trades] If a small fire starts, only use an extinguisher if it is safe and you know how. Fire and Rescue NSW says energised electrical fires (class E) need powder, CO2 or vaporising liquid - never water or foam - and gas fires are not to be put out unless the gas supply has been shut off first. Raise the alarm and call Triple Zero (000).",
+    "[Fire protection] When you finish: remove any detector covers, de-isolate, check the panel shows normal with no faults or isolations left, reopen and check valves, confirm with the monitoring company, and hand back to the site contact. Our procedure is that nobody leaves site until this is done.",
+    "[Apprentices] Apprentices do not isolate or de-isolate panels or valves on their own. Work under the direct supervision of your tradesperson, and if you are not sure what is isolated, ask before you start."
+  ],
+  "supervisors_must_check": [
+    "[Fire protection] Every isolation on our jobs is approved by the building owner or manager, limited to what the job needs, tagged, notified to the monitoring company, and recorded in the site logbook or isolation register.",
+    "[Fire protection] Techs know the AS 1851-2012 servicing procedures now required in NSW, and our service sheets and logbooks reference the right section and interval, with a hard copy left on site.",
+    "[Fire protection] Critical defects are being reported before the tech leaves site and confirmed in writing within 24 hours; non-critical defects within one week.",
+    "[Electrical, Air conditioning, Refrigeration, Plumbing] Jobs that make dust, heat or smoke in buildings with detectors (cutting, drilling, brazing, grinding, blowing out ceilings) include asking the site about detector isolation in the job notes or SWMS.",
+    "[Electrical, Fire protection] Work on fire panels, warning systems and emergency lighting covers both mains and battery isolation, lock and tag, and test before touch.",
+    "[All trades] Vans carry a suitable extinguisher, in date and readily accessible, and crews know which type to use on electrical and gas fires.",
+    "[Apprentices] Apprentices are not isolating or restoring fire systems unsupervised."
+  ],
+  "discussion_questions": [
+    "Think about the last time you worked in a building with smoke detectors. Did anyone ask whether they needed isolating - and who would have paid if the alarm went off?",
+    "You arrive for a service and find a zone already isolated on the panel with no tag or note. What do you do before you touch anything?",
+    "Your job is running late and the sprinkler valve you closed can't be reopened until tomorrow. Who do you call, what goes in place overnight, and what gets written down?",
+    "What counts as a critical defect on the systems we service, and how quickly does the building owner need to hear about it?",
+    "For the electricians and A/C crew: you need to isolate power to a board that also feeds the fire panel or emergency lights. What happens to those systems, and who needs to know first?"
+  ],
+  "practical_checklist": [
+    "[All trades] Signed in and inducted with the building manager; asked about detectors in the work area",
+    "[Fire protection] Isolation approved by owner/manager; permit in place if they use one",
+    "[Fire protection] Only the zones, devices or valves needed are isolated",
+    "[Fire protection] Panel/valve tagged with name, phone, time and reason",
+    "[Fire protection] Monitoring company and site contact told what is off and for how long",
+    "[Fire protection] Gap covered: fire watch, extinguisher on hand, occupants told",
+    "[Electrical, Fire protection] Mains and battery isolated, locked, tagged and tested before touching panels or emergency lights",
+    "[Fire protection] Defects found classified; critical defects reported before leaving site",
+    "[Fire protection] Logbook filled in at time of service; hard copy left on site",
+    "[Fire protection] Detector covers removed, systems de-isolated, valves fully open, panel normal",
+    "[Fire protection] Monitoring company confirmed restored; handed back to site contact",
+    "[Apprentices] Tradesperson supervising any isolation or restoration"
+  ],
+  "required_records": [
+    "Signed sign-on register for this toolbox talk (exported CSV from the app).",
+    "Isolation / impairment record for each isolation: what, why, who approved, start and finish times, interim measures, who restored it.",
+    "AS 1851-2012 logbook entries and service records completed at the time of service, with a hard copy left on site.",
+    "Written confirmation of any critical defect to the building owner or responsible entity within 24 hours, and non-critical defect / non-conformance notices within one week.",
+    "Site sign-in and induction records, and any permit issued by the building manager.",
+    "SWMS for work on fire panels and emergency lighting (mains and battery isolation)."
+  ],
+  "follow_up_actions": [
+    {
+      "action": "Set up a simple isolation/impairment tag and record sheet (or Simpro form) for the fire crew: system, zone/valve, approval, monitoring company notified, interim measures, restored and checked.",
+      "owner": "Fire protection lead",
+      "due": "Friday 27 November 2026"
+    },
+    {
+      "action": "Check our fire service sheets and logbook templates match AS 1851-2012 (section and interval referenced, hard copy left on site) now that it is mandatory in NSW.",
+      "owner": "Fire protection lead",
+      "due": "Friday 27 November 2026"
+    },
+    {
+      "action": "Brief all electrical, A/C, refrigeration and plumbing crews: ask the site about detector isolation before dusty or hot work, and never isolate a fire panel unless trained and authorised.",
+      "owner": "Supervisor",
+      "due": "Friday 20 November 2026"
+    },
+    {
+      "action": "Check every van has a suitable, in-date extinguisher mounted where it can be reached quickly.",
+      "owner": "Supervisor",
+      "due": "Friday 27 November 2026"
+    },
+    {
+      "action": "Team issue from Hextra Full Team Chat (17 Nov): restock small asset stickers and electrical test and tag labels and keep them in one place everyone can reach.",
+      "owner": "Operations manager",
+      "due": "Friday 20 November 2026"
+    }
+  ],
+  "sources_reviewed": [
+    {
+      "name": "Fire and Rescue NSW",
+      "type": "regulator",
+      "title": "Automatic Fire Alarms",
+      "url": "https://www.fire.nsw.gov.au/fire-safety/building-fire-safety/automatic-fire-alarms/automatic-fire-alarms",
+      "date": "undated",
+      "accessed": "2026-11-18",
+      "note": "About 58,000 AFA activations in 2025, about 98% unwanted; around 40% of FRNSW responses are AFAs; unwanted alarms can create complacency; false alarm charge $1,656, first in 60 days not charged, 24-hour leniency; workers cause false alarms through dust, cutting wires, spraying, steam cleaning; workers must register and be inducted for appropriate AFA isolation."
+    },
+    {
+      "name": "Fire and Rescue NSW",
+      "type": "regulator",
+      "title": "Unwanted alarms brochure",
+      "url": "https://www.fire.nsw.gov.au/__data/assets/pdf_file/0014/5900/Unwanted-alarms-brochure.pdf",
+      "date": "undated",
+      "accessed": "2026-11-18",
+      "note": "Tradespeople, cleaners and dust listed as causes of unwanted alarms; manage work producing dust, heat, smoke or steam; on-site works management plan for tradespeople using welders, blowers and other equipment."
+    },
+    {
+      "name": "Building Commission NSW",
+      "type": "government",
+      "title": "Reforms to building fire safety regulation",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/building-commission/industry-changes/reforms-to-building-fire-safety-regulation",
+      "date": "undated",
+      "accessed": "2026-11-18",
+      "note": "From 13 February 2026 persons maintaining essential fire safety measures in class 1b-9 buildings must follow AS 1851-2012 procedures where the standard addresses the activity (deferred from 13 February 2025); from 13 February 2027 accredited persons to certify newly installed measures."
+    },
+    {
+      "name": "Building Commission NSW",
+      "type": "government",
+      "title": "Building fire safety requirements under AS 1851-2012",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/building-commission/industry-changes/as1851-2012",
+      "date": "2026-09-30",
+      "accessed": "2026-11-18",
+      "note": "AS 1851-2012 mandatory from 13 February 2026 under the EP&A (Development Certification and Fire Safety) Regulation 2021 for class 1b and 2-9 buildings; owners responsible; contracted professionals must understand the standard and hold appropriate licences and qualifications."
+    },
+    {
+      "name": "Building Commission NSW",
+      "type": "government",
+      "title": "Good practice guide for implementing AS 1851-2012 (January 2026 edition, NSW Fire Safety Industry Reference Group)",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/building-commission/industry-changes/as1851-2012/good-practice-guide-for-implementing-as-1851-2012",
+      "date": "2026-01-30",
+      "accessed": "2026-11-18",
+      "note": "Defect classifications and reporting: critical defects before leaving site or as soon as possible and in writing within 24 h; non-critical defects and non-conformances within one week; logbooks completed at the time of service with a hard copy left on site."
+    },
+    {
+      "name": "NSW Government",
+      "type": "government",
+      "title": "Fire safety practitioner requirements and accreditation",
+      "url": "https://www.nsw.gov.au/housing-and-construction/compliance-and-regulation/fire-safety-practitioners",
+      "date": "2026-08-19",
+      "accessed": "2026-11-18",
+      "note": "No accreditation required to install or do routine maintenance, testing and servicing of essential fire safety measures; accredited practitioner (fire safety) required to assess measures for annual fire safety statements; FPA Australia's FPAS is the approved scheme."
+    },
+    {
+      "name": "Fire and Rescue NSW",
+      "type": "regulator",
+      "title": "Portable fire extinguisher information for business",
+      "url": "https://www.fire.nsw.gov.au/fire-safety/workplace-fire-safety/topics/portable-fire-extinguisher-information-for-business",
+      "date": "undated",
+      "accessed": "2026-11-18",
+      "note": "Extinguisher types by fire class (class E energised electrical: BE/ABE powder, CO2, vaporising liquid); gas fires not to be extinguished unless gas supply shut down first; readily accessible location, 1000 mm clearance recommended."
+    },
+    {
+      "name": "SafeWork NSW",
+      "type": "regulator",
+      "title": "Emergency plans",
+      "url": "https://www.safework.nsw.gov.au/safety-starts-here/safety-overview/emergency-plans",
+      "date": "undated",
+      "accessed": "2026-11-18",
+      "note": "Emergency plans a legal requirement; must include procedures, testing and training; consider remote and lone workers; shared workplaces consult other businesses; review after refurbishments or more contractors."
+    },
+    {
+      "name": "Safe Work Australia",
+      "type": "regulator",
+      "title": "Emergency plans and procedures - Overview",
+      "url": "https://www.safeworkaustralia.gov.au/safety-topic/managing-health-and-safety/emergency-plans-and-procedures/overview",
+      "date": "undated",
+      "accessed": "2026-11-18",
+      "note": "Regulation 43 of the model WHS Regulations: emergency plan must cover response, evacuation, notifying emergency services, medical help, communication, testing and training; plans may include a map of fire protection equipment."
+    }
+  ],
+  "prepared_by": "Hextra toolbox talk (draft prepared from regulator and industry sources - review before delivery)"
+}
