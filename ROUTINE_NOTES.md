@@ -1,7 +1,8 @@
 # Hextra weekly toolbox talk – routine notes
 
-Run every week (ideally Thursday/Friday before, or Monday morning by 7 am Sydney time) to publish the
-talk for **Monday** of that week. App: https://shane981.github.io/hextra-toolbox/ · Repo: shane981/hextra-toolbox
+Run every week: draft on **Tuesday** around 2 pm Sydney time (send to Shane to check), publish on **Wednesday** by about
+5:45 am Sydney time, then post the announcement in Hextra Full Team Chat. The talk date is the **Wednesday** of that week
+(changed from Mondays on 18 Nov 2026 at Shane's request). App: https://shane981.github.io/hextra-toolbox/ · Repo: shane981/hextra-toolbox
 (source on `main`, deployed site on `gh-pages`). Local working copy: `/workspace/hextra-toolbox`.
 Never touch `/workspace/monaro-toolbox` or the shane981/monaro-toolbox repo – that is a separate app.
 
@@ -17,14 +18,15 @@ remote sites, roof work, long drives on Snowy roads. Talks are for technicians, 
 ## 1. Pick the topic (rotation + no repeats)
 1. List what's been done: `ls talks/ drafts/` and `jq -r '.talks[] | "\(.date)  \(.title)"' talks/index.json`
    (also skim `key_risk` of the last 8 talks: `for f in talks/2*.json; do jq -r '.date+" | "+.key_risk[0:120]' $f; done`).
-2. Rotation – follow this cycle by week number since 9 Nov 2026 (week 0 = electrical isolation/LOTO):
+2. Rotation – follow this cycle in order, moving one slot per published talk (9 Nov 2026 = slot 1 electrical,
+   16 Nov = slot 2 HVAC-R, 18 Nov = slot 3 fire protection – the first Wednesday talk; next is slot 4 plumbing):
    1. Electrical / solar / Level 2 ASP
    2. HVAC-R (air conditioning, refrigeration, refrigerants, heat pumps)
    3. Fire protection
    4. Plumbing-side work (hydronics, heat-pump hot water, beer lines, gas/water near electrical, backflow/scald)
    5. General WHS (working at heights/roofs, ladders, ceiling spaces & heat, asbestos, manual handling,
       driving/fatigue on alpine roads, working alone, cold/snow, silica dust, mental health)
-   Then repeat. Week n uses slot `n mod 5` (0 = slot 1). Override the rotation when a **new** regulator
+   Then repeat. Find the last published talk's slot and use the next one. Override the rotation when a **new** regulator
    safety alert / incident release / fatality directly relevant to Hextra's trades appears (note why in `summary`).
 3. Do not repeat a topic used in the last 26 weeks (same main hazard = repeat, even if worded differently).
    A follow-up angle is fine only if it is clearly different (e.g. "DC isolation on solar + batteries" vs
@@ -53,9 +55,9 @@ penalties or dates; if a fact is a Hextra house rule rather than a legal require
 procedure" and list it in the report as an assumption for Shane to confirm. Australian English, plain language.
 
 ## 3. Write the draft
-- File: `drafts/YYYY-MM-DD.json` where the date is the Monday. Copy the structure of the latest `talks/*.json`.
+- File: `drafts/YYYY-MM-DD.json` where the date is the Wednesday. Copy the structure of the latest `talks/*.json`.
   Schema: `SCHEMA.md` / `schema/talk.schema.json` (no extra fields; exactly 5 discussion questions).
-- `week_label`: `Week NN of TT – Week of Monday D Month YYYY`, where NN is the ISO week number of the Monday (`date -d YYYY-MM-DD +%V`) and TT is that ISO year's total weeks (52, or 53 in long years such as 2026: `date -d YYYY-12-28 +%V`). Shane asked for this on 18 Nov 2026. Keep the title unchanged; the week number goes in `week_label` and the Monday Teams post.
+- `week_label`: `Week NN of TT – Week of Wednesday D Month YYYY`, where NN is the ISO week number of the Wednesday (`date -d YYYY-MM-DD +%V`) and TT is that ISO year's total weeks (52, or 53 in long years such as 2026: `date -d YYYY-12-28 +%V`). Shane asked for this on 18 Nov 2026. Keep the title unchanged; the week number goes in `week_label` and the Wednesday Teams post.
 - Every item in `drivers_need_to_know` (shown as "What workers need to know"), `supervisors_must_check`
   and `practical_checklist` starts with the trades it applies to in brackets, e.g. `[Electrical, Solar, Level 2 ASP]`,
   `[Air conditioning, Refrigeration]`, `[Fire protection]`, `[Hydronics/heat pumps]`, `[All trades]`, `[Apprentices]`.
